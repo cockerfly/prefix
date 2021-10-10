@@ -1,1 +1,1 @@
-# Search collision of public keys with prefix
+# Search collision of bitcoin public keys with prefix
